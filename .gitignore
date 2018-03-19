@@ -1,0 +1,11 @@
+# Data files
+BJ13_M32x32_T30_InOut.h5
+BJ14_M32x32_T30_InOut.h5
+BJ15_M32x32_T30_InOut.h5
+BJ16_M32x32_T30_InOut.h5
+
+# Test files 
+visualization.py
+
+# Visualization files
+*.png
